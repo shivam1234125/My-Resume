@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivam Tomar- Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            box-shadow: 0 0 10px rgba(242, 236, 236, 0.1);
+        }
+        
+        header {
+            background-color: #f18f8f7e;
+            color: #140101;
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        header img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-left: 20px;
+        }
+        
+        section {
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            font-size: 36px;
+            margin-top: 0;
+        }
+        
+        h2 {
+            background-color: rgba(249, 230, 230, 0.817);
+            border-color: #23527c;
+            border-radius: 0lvi;
+            font-size: 24px;
+            margin-top: 20px;
+            text-align: start;
+            color: rgb(39, 41, 41);
+            
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #337ab7;
+        }
+        
+        a:hover {
+            color: #23527c;
+        }
+        
+       
+
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="C:\Users\2118606\Downloads\WhatsApp Image 2024-10-01 at 3.31.22 PM.jpeg" alt="Your Name">
+            <div>
+                <h1>Shivam Tomar</h1>
+                <p>Quality Engineering</p>
+            </div>
+            
+        </header>
+        <section>
+            <h2>Contact Information</h2>
+            <ul>
+                <li><strong>Email:</strong> <a href="stomar1234125@gmail.com">stomar1234125@gmail.com</a></li>
+                <li><strong>Phone:</strong>+91 7060374845</li>
+                <li><strong>Location:</strong> <a >Noida India</a></li>
+                <li><strong>GitHub Acc:-</strong> <a href="https://github.com/shivam1234125">/shivam1234125</a></li>
+                
+            </ul>
+        </section>
+        <section >
+            <h2>Objective</h2>
+            <p>Want to be assosiated with a progressive organization that can provide me a dyanmic work sphere,challenging assignments with responsibility 
+               which encourages learning new technologies in testing field and help  me to excel in all 
+               projects undertaken.
+            </p>
+        </section>
+
+        <section>
+            <h2> Professional Summary</h2>
+            <ul style="list-style: disc;">
+                <li> Having 2+ years of experience in<i> Manual testing, Automation Testing(Selenium with Java).</i></li>
+                <li>Working experience in<i> telecom domain with Germany client</i>. </li>
+                <li>Strong experience in <i>core Java and OOPPs concept.</i></li>
+                <li>Handson experience in <i>creating, modifying and enhancing Test script created in Selenium with Java.</i></li>
+                <li>Also performed <i>Cross Browser Automation Testing</i></li>
+                <li>Handson experience in idenfying<i> X-path, Identifying elements.</i></li>
+                <li>Good experience of various type of testing like<i> Functional, Non-functional, GUI, Regresion & Retesting</i></li>
+                <li>Worked on <i>Aglie methodology and actively participated in Scrum meeting</i></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <ol>
+                <li><strong>B.Tech</strong><br>KIET Group of Institutions (2022)<br>
+                Branch:-Mechanical Engineering
+                </li>
+                <li><strong>10+2</strong><br> CBSE (2018)<br> Stream:- PCM</li>
+                <li><strong>10th</strong><br> CBSE (2016)<br> Stream:- Science</li>
+            </ol>
+            
+            
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <ol>
+                <li>
+                    <strong>Quality Engineering & Assusrance</strong><br><b style="color: #f3aa18;" >Cognizant Technology Solution &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(Sep,2022  to Present)</b>
+                  <br>Process Testing<br>I am responsible for daily smoke test and daily Regression test.
+                    Finding an bug and create the ticket and fix an client call to fix the bug.
+                    
+
+            
+                    
+                
+                <li>
+                    <strong>Automation Internship,</strong><br><b style="color: #f3aa18;">Cognizant Technology Solution &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(Jan- Sep)2022</b> 
+                    <ul>
+                        <li>Daily learning Java and doing Selenium Handson daily 
+                            Make projects and give assignment.<br>
+                            Skills:- Selenium,Java, TestNg, Maven
+                        </li>
+                        
+                    </ul>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <h2>Project Work</h2>
+            <ul>
+                <li>Project Name:- Process Testing</li>
+                <li>Domain:- Telecom</li>
+                <li> Description:- <br> This project aims to provide services to the German based company 
+                (Deutsche Telekom).The main goal was to check the functionalities of different 
+         communication technologies like VDSL,ADSL,SDSL and FTTH by performing execution of various 
+        business cases which include customer booking, change of product, cancellation of order and many more.<br>
+        <h3>Roles and Responsibilities</h3>
+        <ul style="list-style: disc;">
+            <li>Understanding requirements, user stories and specifications to gain a clear Understanding</li>
+            <li>Execute the test case to validate customer requirements</li>
+            <li>Generate the test scenario and test cases.</li>
+            <li>Restesting defect fixes on each release build </li>
+            <li>Performing smoke, Functional, System integration, Restesting and Regresion</li>
+        </ul>
+    </li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Skills</h2>
+            <ol>
+                <li>Primary Skills:- Manual Testing, Automation Testing, Java </li>
+                <li>Secondary Skills:- HTML,CSS, TestNg</li>
+                <li>Additional:-Jira </li>
+                
+            </ol>
+        </section>
+        
+    </div>
+</body>
+</html>
